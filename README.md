@@ -1,1 +1,1 @@
-# pokedex_web_js
+# POKEDEX
